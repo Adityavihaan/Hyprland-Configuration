@@ -12,6 +12,8 @@ This is my personal configuration for [Hyprland](hyprland.org).
 - Power usage and battery indicators
 - Some custom scripts included for system lock via keybinds
 
+- By the way this hyprlock white color wallaper and in the new config wallapers are paid i got em for free (just for you)
+
 ## 📸 Lock Screen (New)
 
 > ![Hyprlock Screenshot](./previews/new_hyprlock.png)

@@ -1,6 +1,6 @@
 # Hyprlock Configuration – by Adityavihaan
 
-This is my personal configuration for [Hyprlock](https://github.com/hyprwm/hyprlock), a minimal and stylish lock screen utility for Hyprland (Wayland compositor).
+This is my personal configuration for [Hyprland](hyprland.org).
 
 ## 🔐 Features
 

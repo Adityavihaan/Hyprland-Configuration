@@ -13,6 +13,7 @@ This is my personal configuration for [Hyprlock](https://github.com/hyprwm/hyprl
 ## 📸 Screenshot
 
 > ![Hyprlock Screenshot](./previews/new_hyprlock.png)
+> ![New Config](./previews/new.png))
 
 ## 📁 Config Location
 

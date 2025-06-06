@@ -13,7 +13,20 @@ This is my personal configuration for [Hyprlock](https://github.com/hyprwm/hyprl
 ## 📸 Screenshot
 
 > ![Hyprlock Screenshot](./previews/new_hyprlock.png)
-> ![New Config](./previews/new.png))
+
+### Old
+
+![old.png](previews/old.png)
+![old2.png](previews/old2.png)
+![old3.png](previews/old3.png)
+![old4.png](previews/old4.png)
+![old5.png](previews/old5.png)
+![old6.png](previews/old6.png)
+
+### New
+
+![new.png](previews/new.png)
+![new2.png](previews/new2.png)
 
 ## 📁 Config Location
 

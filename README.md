@@ -5,12 +5,14 @@ This is my personal configuration for [Hyprlock](https://github.com/hyprwm/hyprl
 ## 🔐 Features
 
 - Clean, minimal layout
-- Centered clock and profile image
+- Minimal Waybar Config
+- Clean Animations
+- 10+ animations sets for hyprland
 - Integrated lock animation and styling
 - Power usage and battery indicators
 - Some custom scripts included for system lock via keybinds
 
-## 📸 Screenshot
+## 📸 Lock Screen (New)
 
 > ![Hyprlock Screenshot](./previews/new_hyprlock.png)
 
@@ -34,4 +36,6 @@ This config resides at:
 
 ```bash
 ~/.config/hypr/hyprlock.conf
+
+Not everyconfig here is mine waybar,rofi and nvim configs are taken from the internet (I will credit the Actual Devs Soon I cant find em Sorry Devs, But i will soon)
 

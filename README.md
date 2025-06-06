@@ -40,4 +40,7 @@ This config resides at:
 ~/.config/hypr/hyprlock.conf
 
 Not everyconfig here is mine waybar,rofi and nvim configs are taken from the internet (I will credit the Actual Devs Soon I cant find em Sorry Devs, But i will soon)
-
+```
+>Credits For Waybar and Rofi Configs:
+![Waybar](https://github.com/linuxmobile/hyprland-dots)
+#I could not find the rofi dev but i will find and credit him soon :)

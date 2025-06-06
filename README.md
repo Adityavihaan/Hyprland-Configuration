@@ -1,4 +1,4 @@
-# Hyprlock Configuration – by Adityavihaan
+# Hyprlock Configuration – by Aditya
 
 This is my personal configuration for [Hyprland](hyprland.org).
 

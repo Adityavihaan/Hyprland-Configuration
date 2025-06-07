@@ -53,13 +53,8 @@ This is my personal configuration for [Hyprland](hyprland.org).
 ![new.png](previews/new.png)
 ![new2.png](previews/new2.png)
 
-## 📁 Config Location
-
-This config resides at:
 
 ```bash
-~/.config/hypr/hyprlock.conf
-
 Not everyconfig here is mine waybar,rofi and nvim configs are taken from the internet (I will credit the Actual Devs Soon I cant find em Sorry Devs, But i will soon)
 ```
 >Credits For Waybar and Rofi Configs:

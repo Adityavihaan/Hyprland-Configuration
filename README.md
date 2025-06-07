@@ -14,6 +14,27 @@ This is my personal configuration for [Hyprland](hyprland.org).
 
 - By the way this hyprlock white color wallaper and in the new config wallapers are paid i got em for free (just for you)
 
+- Binds -
+- Close App -- Super + C
+- Open Rofi -- Super + Space
+- Open Terminal -- Super + Enter
+- Open File Explorer -- Super + E
+- Open Browser -- Super + B
+- Open Wallpaper Switcher -- Super + W
+- Set Lock Screen Wallpaper -- Alt + W  (It sets the current wallpaper to lock screen wallpaper)
+- Take Screenshot -- Super + D
+- Move Focus -- Super + Left,Right,Up,Down
+- Change Workspaces -- Super + 1,2,3,4,5,6,7,8,9,0
+- Move Window to a Workspace -- Super + Shift + 1,2,3,4,5,6,7,8,9,0
+- Fullscreen Any Window -- Super + F
+- Toggle Split -- Super + J
+- Reload Waybar -- Super + R
+- Lock Screen -- Super + L
+- Logout Menu -- Super + H
+- Toggle Floating + Super + V
+- Pseudo -- Super + P
+- Force Exit Hyprland -- Super + M
+
 ## 📸 Lock Screen (New)
 
 > ![Hyprlock Screenshot](./previews/new_hyprlock.png)

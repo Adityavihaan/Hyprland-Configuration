@@ -14,7 +14,7 @@ This is my personal configuration for [Hyprland](hyprland.org).
 
 - By the way this hyprlock white color wallaper and in the new config wallapers are paid i got em for free (just for you)
 
-- Binds -
+## Binds -
 - Close App -- Super + C
 - Open Rofi -- Super + Space
 - Open Terminal -- Super + Enter

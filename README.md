@@ -52,6 +52,7 @@ This is my personal configuration for [Hyprland](hyprland.org).
 
 ![new.png](previews/new.png)
 ![new2.png](previews/new2.png)
+![Demo-New](previews/screenshot-1749275223.png)
 
 
 ```bash
